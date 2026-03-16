@@ -38,4 +38,10 @@
         </form>
     </div>
 </div>
+Admins
+Login: Sergejs@gmail.com
+Password: Admins@123
+Lietotajs
+Login: martins@gmail.com
+Password:Lietotajs123
 @endsection
