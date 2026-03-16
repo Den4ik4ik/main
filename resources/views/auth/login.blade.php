@@ -41,7 +41,7 @@
 Admins
 Login: Sergejs@gmail.com
 Password: Admins@123
-Lietotajs
+Lietotajsfffffffffffffffffffffffffffffffffffffffffffffffffffffff
 Login: martins@gmail.com
-Password:Lietotajs123
+Password:Lietotajs123ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 @endsection
